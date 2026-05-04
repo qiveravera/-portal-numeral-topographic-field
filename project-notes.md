@@ -1,4 +1,4 @@
-# Project Notes — Portal Numeral: Topographic Field
+# portal-numeral-topographic-field
 
 ## Competition
 Google I/O 2026 — Code the Countdown
